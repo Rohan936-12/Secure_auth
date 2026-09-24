@@ -229,3 +229,10 @@ This project is licensed under the MIT License.
 **Abhinav Dixit**
 
 If this project helped you, consider giving it a ⭐ on GitHub.
+##quick start
+
+after completing the installation steps above:
+1 make sure the required environment variables are configured.
+2 start the backend using `npm run dev`
+3 open the frontend using live server
+4 use the last application to test the authentication features
